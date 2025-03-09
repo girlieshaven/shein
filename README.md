@@ -1,0 +1,1 @@
+This repository contains a fully responsive landing page designed to promote a $750 SHEIN gift card offer. The page features a visually appealing design with interactive elements, animations, and a user-friendly interface to encourage visitors to participate in a survey and claim their gift card.
